@@ -48,7 +48,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends Activity  implements LocationListener{
-    // added a new comment
     // Store the value of location globally so it can be sent via email
 	public Location location;
 	// Boolean to control sending of Emails before pictures are taken
