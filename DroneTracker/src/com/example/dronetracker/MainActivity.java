@@ -47,7 +47,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-
+// add a new comment
 public class MainActivity extends Activity  implements LocationListener{
     // Store the value of location globally so it can be sent via email
 	public Location location;
